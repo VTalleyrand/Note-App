@@ -7,7 +7,7 @@ import { getAuth, GoogleAuthProvider} from 'firebase/auth';
 
 
 const firebaseConfig = {
-  apiKey: process.env.REACT_APP_FIREBASE_API,
+  apiKey: "AIzaSyBIUgjn19zO1BkMhulyPaOwrA7Ed8ogihE",
   authDomain: "note-app-bd716.firebaseapp.com",
   projectId: "note-app-bd716",
   storageBucket: "note-app-bd716.appspot.com",
