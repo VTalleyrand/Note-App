@@ -1,3 +1,7 @@
+ ![Note app](https://user-images.githubusercontent.com/76098947/165256709-f8340c9b-86cf-4f3a-bb41-2d117ddc12af.gif)
+
+
+
 React Note App with Auth
 
 Live site: [https://note-app-ebon.vercel.app/](https://note-app-ebon.vercel.app/)
