@@ -4,7 +4,7 @@
 
 React Note App with Auth
 
-Live site: [https://note-app-ebon.vercel.app/](https://note-app-ebon.vercel.app/)
+Live site: [https://noteapp1.vercel.app/](https://noteapp1.vercel.app/)
 
 ### Objective(s):
 
