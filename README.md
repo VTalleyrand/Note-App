@@ -6,7 +6,7 @@ React Note App with Auth
 
 Live site: [https://noteapp1.vercel.app/](https://noteapp1.vercel.app/)
 
-### Objective(s):
+### Goal(s):
 
 - Implement authentication using react and firebase
 - Practice hooks: useState, useContext, useRef
